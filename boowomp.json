@@ -1,0 +1,23 @@
+{
+  "id": "boowomp",
+  "name": "Boowomp",
+  "author": [
+    "Ayden"
+  ],
+  "description": "Boowomp",
+  "prefix": "boowomp",
+  "main_file": "main.lua",
+  "version": "1.1.0",
+  "priority": 0,
+  "badge_colour": "ffff00",
+  "badge_text_colour": "000000",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0711a)"
+  ],
+  "conflicts": [
+    "Boowomp 2"
+  ],
+  "provides": [
+    "Boowompicus"
+  ]
+}
